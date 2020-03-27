@@ -1,5 +1,0 @@
-# spyder project settings
-__pycache__/
-.spyproject/
-# python binaries
-*.pyc
